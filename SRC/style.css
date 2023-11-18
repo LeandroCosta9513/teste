@@ -205,21 +205,19 @@ h1 {
         cursor: pointer;    
     }
 
-    footer > hr {
+    .linha {
         width: 1149.402px;
         height: 0px;
         stroke-width: 0.5px;
         stroke: #fff;
     }
 
-    footer > p {
+    .letra {
         font-size: 15px;
         font-weight: 400;
         letter-spacing: -0.3px;
         text-transform: uppercase;
+        text-align: center;
     }
 
-    footer > p > span {
-        color: #EAAB0A;
-    }
-
+   
