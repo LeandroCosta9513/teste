@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;800;900&display=block");
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: montserrat; /*fonte importada do google fonts, add + e copy link*/
+}

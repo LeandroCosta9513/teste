@@ -13,6 +13,7 @@
     font-family: montserrat; /*fonte importada do google fonts, add + e copy link*/
 }
 
+/*@import "./css/_base.css" pra realizar a importação da base do css que criei*/
 nav{
     width: 80%;
     margin: 20px auto;
