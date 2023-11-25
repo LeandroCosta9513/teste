@@ -1,7 +1,23 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;800;900&display=block");
-
-*{
-    margin: 0;
-    padding: 0;
-    font-family: montserrat; /*fonte importada do google fonts, add + e copy link*/
+    * {
+        margin: 0;
+        padding: 0;
+        font-family: montserrat; /*fonte importada do google fonts, add + e copy link*/
+        box-sizing: border-box;
+        list-style: none;
+        scrollbar-color: transparent transparent; /* thumb and track color */
+        scrollbar-width: 0px;
+        -webkit-font-smoothing: antialiased; /* retira os serrilhados das fontes e fotos */
+      }
+      
+      html {
+        font-size: 62.5%;
+      }
+      
+      .container {
+        max-width: 115rem;
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 2rem;
+      }
 }
