@@ -1,0 +1,9 @@
+
+:root{
+    --color-primary:#EAAB09; /*incrementação de uma variavel dentro do css, ai acaba ficando var(--color-primary);*/
+    --color-secundary: #FFC501;
+    --text-primary: #fff;
+    --text-secundary: black;
+    --bg-footer: black;
+
+}
