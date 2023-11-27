@@ -4,6 +4,8 @@
     width: 100%;
     height: 715px;
     padding-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 .s1 > h4{
     position: absolute;
@@ -32,8 +34,7 @@
 
 .lines {
     background: url("./images/linhas.svg"),center no-repeat;
-    position: absolute;
-    right: 160px;
+   
 }
 .pessoa {
     margin-left: 150px;
