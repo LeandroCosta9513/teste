@@ -33,11 +33,12 @@
 }
 
 .lines {
-    background: url("./images/linhas.svg"),center no-repeat;
+    background: url("../images/linhas.svg") center no-repeat;
+    margin-left: 1000px;
    
 }
 .pessoa {
-    margin-left: 150px;
+    margin-left: 90px;
     height: 650px;
 }
 
